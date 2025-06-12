@@ -1,0 +1,10 @@
+{
+  "name": "Sigruns_Wings",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/binbinmods/SigrunsWings",
+  "description": "Allows Sigrun to fly across certain parts of the void.",
+  "dependencies": [
+    "meds-Obeliskial_Content-1.6.0",
+    "meds-Obeliskial_Essentials-1.5.0"
+  ]
+}
